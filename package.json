@@ -2,11 +2,11 @@
   "name": "hotel-scheduler",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "react-scripts build"
+    "start": "node server.js",
+    "build": "echo 'Build complete - no build step required for this Node.js app'",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
